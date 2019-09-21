@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.title{
+  padding-top: 18px;
+  font-size: 24px;
+  text-align: center;
+  /* padding-bottom: 20px; */
+}
+
+.qr-reader{
+  width: 100%;
+}
+.confirmationImg{
+  height: 30px;
+}
+
+.field-name{
+  font-weight: 600;
+  color: #212529;
+}
+
+
