@@ -29,5 +29,12 @@ code {
   font-weight: 600;
   color: #212529;
 }
+#logo{
+  width: 210px;
+}
+
+.moreHeight{
+  height: 320px;
+}
 
 

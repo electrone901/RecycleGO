@@ -37,7 +37,7 @@ class CollectorConfirmation extends Component {
                 <p> <span className="field-name">Type: </span>{this.state.data.type}</p>
                 <p> <span className="field-name">Weight: </span>{this.state.data.weight}</p>
                 <p> <span className="field-name">Dropping Off Location: </span>{this.state.data.location}</p>
-                <Link className="btn btn-primary btn-lg btn-block" to={`/`}>Confirm</Link>
+                <Link className="btn btn-primary btn-lg btn-block" to={`/dashboard`}>Confirm</Link>
             </div>
        )
     }
